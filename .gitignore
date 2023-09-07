@@ -1,0 +1,4 @@
+# production
+/build
+/dist
+/table_update_create_scenario.egg-info
