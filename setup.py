@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="table_update_create_scenario",
-    version="2.1.0",
+    version="2.9.0",
     author="",
     author_email="",
     description="",
